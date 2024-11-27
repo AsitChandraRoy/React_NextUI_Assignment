@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=M+PLUS+1:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+}
