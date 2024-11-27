@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import {
   Button,
   Link,
@@ -26,8 +27,8 @@ function NavbarArea() {
         onMenuOpenChange={setIsMenuOpen}
         shouldHideOnScroll
         isBlurred={false}
-        className="w-full bg-[#002228]"
-        maxWidth="xl"
+        className="w-full bg-[#002228] border border-blue-900 py-2 mx-auto px-7 font-work"
+        maxWidth="full"
       >
         <NavbarBrand>
           <div className="w-26">

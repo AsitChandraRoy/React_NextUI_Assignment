@@ -14,7 +14,7 @@ export default {
         foreground: "#ffffff",
       },
     },
-    fontFamily: {mplus1: '"M PLUS 1", sans-serif'},
+    fontFamily: {work: '"Work Sans", sans-serif', montserrat: '"Montserrat", sans-serif'},
   },
   darkMode: "class",
   plugins: [nextui()],
