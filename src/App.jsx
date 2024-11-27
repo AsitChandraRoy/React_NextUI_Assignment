@@ -4,6 +4,7 @@ import NavbarArea from './Components/Navbar'
 import HeroSection from './Components/Hero'
 import PartnerSection from './Components/Partners'
 import ControlScalableFlexible from './Components/ControlScalableFlexible'
+import TrainSection from './Components/Train'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <HeroSection />
         <PartnerSection />
         <ControlScalableFlexible />
+        <TrainSection />
     </>
   )
 }
