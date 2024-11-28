@@ -10,8 +10,8 @@ function HeroSection() {
         <section className='mx-auto p-14 font-montserrat sm:text-start text-center'>
             <div className='relative'>
             <h4 className='text-[#0ff1f6] font-light'>AI SDRs (aiDRs)</h4>
-            <h1 className='sm:text-[64px] font-bold py-0 sm:py-5 text-3xl'>More <i>leads,</i></h1>
-            <h1 className='sm:text-[64px] font-bold py-0 sm:py-5 text-3xl'>less <i>people.</i></h1>
+            <h1 className='sm:text-[64px] font-bold py-0 sm:py-5 text-3xl text-[#ffffff]'>More <i>leads,</i></h1>
+            <h1 className='sm:text-[64px] font-bold py-0 sm:py-5 text-3xl text-[#ffffff]'>less <i>people.</i></h1>
             <p className='text-sm sm:text-[20px] font-light sm:w-[490px] font-work mt-3'>Train an aiDR on your ICP and messaging matrix. Activate it on a patch. It will send personalized sequences to every target contact.</p>
             <Button as={Link} className="bg-[#0ff1f6] mt-5 font-work text-xs sm:text-small w-64 sm:w-48" radius="full">
             Sign Up for the Beta

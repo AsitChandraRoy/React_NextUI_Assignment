@@ -8,7 +8,7 @@ function TrainSection() {
         <div className='grid grid-cols-12 relative'>
           <div className="col-span-1 sm:col-span-3"></div>
           <div className="px-3 mx-auto col-span-12 sm:col-span-9">
-            <h2 className="text-[28px] sm:text-[40px] font-semibold">Train your aiDR on your...</h2>
+            <h2 className="text-[28px] sm:text-[40px] font-semibold text-[#ffffff]">Train your aiDR on your...</h2>
             <i className="text-[28px]  text-[#0ff1f6] font-medium">prefered email st|</i>
             <p className="font-work mt-5 text-[18px] sm:text-2xl font-light">
               You’re in control. Train your aiDR on elements of your Marketing

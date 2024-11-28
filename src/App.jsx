@@ -6,6 +6,7 @@ import PartnerSection from './Components/Partners'
 import ControlScalableFlexible from './Components/ControlScalableFlexible'
 import TrainSection from './Components/Train'
 import CommentSection from './Components/comment'
+import Allocate from './Components/Allocate'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <ControlScalableFlexible />
         <TrainSection />
         <CommentSection />
+        <Allocate />
     </>
   )
 }
