@@ -5,6 +5,7 @@ import HeroSection from './Components/Hero'
 import PartnerSection from './Components/Partners'
 import ControlScalableFlexible from './Components/ControlScalableFlexible'
 import TrainSection from './Components/Train'
+import CommentSection from './Components/comment'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
         <PartnerSection />
         <ControlScalableFlexible />
         <TrainSection />
+        <CommentSection />
     </>
   )
 }
