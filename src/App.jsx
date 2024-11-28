@@ -8,6 +8,7 @@ import TrainSection from './Components/Train'
 import CommentSection from './Components/comment'
 import Allocate from './Components/Allocate'
 import GetStarted from './Components/GetStarted'
+import Footer from './Components/Footer'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
         <CommentSection />
         <Allocate />
         <GetStarted />
+        <Footer />
     </>
   )
 }
