@@ -9,9 +9,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#0ff1f6",
-        secondary: "#394648",
-        background: "#002228",
+        primary: "#772ab3",
+        secondary: "#adb2b1",
+        foreground: "#ffffff",
       },
     },
     fontFamily: {work: '"Work Sans", sans-serif', montserrat: '"Montserrat", sans-serif'},
