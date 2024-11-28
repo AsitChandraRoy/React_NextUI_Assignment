@@ -5,7 +5,7 @@ function Allocate() {
     <>
         <section className='bg-[#07292f] mx-auto rounded-xl'>
             <div className='absolute w-full'>
-                <img className='w-full h-[105vh] sm:h-[75vh]' src="back3.png" alt="" />
+                <img className='w-full h-[105vh] sm:h-[41vh]' src="back3.png" alt="" />
             </div>
             <div className='mx-auto p-14 font-montserrat relative'>
                 <h1 className='text[28px] sm:text[32px] font-semibold w-[40%] sm:w-[16%] text-[#ffffff]'>Allocate effort where your reps make an inpact.</h1>
