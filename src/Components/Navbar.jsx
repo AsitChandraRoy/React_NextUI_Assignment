@@ -43,7 +43,7 @@ function NavbarArea() {
         </NavbarContent>
         <NavbarContent className="hidden sm:flex gap-4" justify="end">
           <NavbarItem className="space-x-3">
-            <Button as={Link} className="bg-primary-500" radius="full">
+            <Button as={Link} className="bg-primary" radius="full">
               Book a Demo
             </Button>
             <Button
@@ -62,7 +62,7 @@ function NavbarArea() {
           className="sm:hidden"
         />
         </NavbarContent>
-        <NavbarMenu className="bg-secondary-500">
+        <NavbarMenu className="bg-secondary">
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
@@ -74,7 +74,7 @@ function NavbarArea() {
             </Link>
           </NavbarMenuItem>
         ))}
-                    <Button as={Link} className="bg-primary-500" radius="full">
+                    <Button as={Link} className="bg-primary" radius="full">
               Book a Demo
             </Button>
             <Button

@@ -14,7 +14,7 @@ function TrainSection() {
               You’re in control. Train your aiDR on elements of your Marketing
               strategy.
             </p>
-            <div className="grid grid-cols-12 text-[#0ff1f6]">
+            <div className="grid grid-cols-12 text-primary">
               <div className="col-span-12 sm:col-span-6 flex justify-start items-center gap-2 mt-5">
                 <img className="w-4" src="Group.png" alt="" />
                 <p>Quick to ramp</p>
