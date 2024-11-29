@@ -8,7 +8,7 @@ import TrainSection from './Components/Train'
 import Allocate from './Components/Allocate'
 import GetStarted from './Components/GetStarted'
 import Footer from './Components/Footer'
-import CommentSection from './Components/comment'
+import CommentSection from './Components/CommentSection'
 
 function App() {
 
